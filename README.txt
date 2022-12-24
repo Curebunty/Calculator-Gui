@@ -1,5 +1,6 @@
 # Calculator-Gui
 Java Calculator that will show up and work as intended.
+Please Run the Main.java in your IntelliJ IDEA Community program, then press the green arrow button on the top right corner to run the code.
 
 Projekt och inlämningsuppgift
 
